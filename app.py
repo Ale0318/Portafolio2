@@ -117,7 +117,7 @@ Si corre en Streamlit, no se toca.
 
 <div class="links">
 
-<a href="https://chatpdf-oamzr4rofj3woilddhzbve.streamlit.app/" target="_blank">>
+<a href="https://chatpdf-oamzr4rofj3woilddhzbve.streamlit.app/" target="_blank">
 🤖 Chat PDF
 </a>
 
