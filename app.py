@@ -185,6 +185,6 @@ har3gggzqmb6gyd3jsd7.streamlit.app/" target="_blank">
 
 st.components.v1.html(
     portfolio_html,
-    height=540,
+    height=550,
     scrolling=True
 )
