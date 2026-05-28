@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Portafolio 1",
+    page_title="Portafolio 2",
     page_icon="✨",
     layout="wide"
 )
@@ -102,93 +102,72 @@ footer{
 
 <body>
 
-<h1>✨ Portafolio 1 ✨</h1>
+<h1>✨ Portafolio 2 ✨</h1>
 
 <p class="subtitle">
-Sobreviví a Streamlit y crisis emocionales con GitHub.
+Si corre en Streamlit, no se toca.
 </p>
 
 <div class="container">
 
-<!-- CLASE 6 -->
+<!-- CLASE 11 -->
 <div class="card">
 
-<h2>📚 Clase 6</h2>
+<h2>📚 Clase 11</h2>
 
 <div class="links">
 
-<a href="https://introo-zfwazup7wrvjuqbqbmczfl.streamlit.app/" target="_blank">
-🚀 Introducción
+<a href="https://chatpdf-oamzr4rofj3woilddhzbve.streamlit.app/" target="_blank">>
+🚀 Chat PDF
 </a>
 
-<a href="https://texto-a-audio-ale-ppvwbaurnr3mep2zh8anqn.streamlit.app/" target="_blank">
-🔊 Texto a Audio
+<a href="https://visionapp-eof9e2wdacnswg8tyid97p.streamlit.app/" target="_blank">
+🔊 Análisis de imagen
 </a>
 
 </div>
 </div>
 
-<!-- CLASE 7 -->
+<!-- CLASE 12 -->
 <div class="card">
 
-<h2>🌎 Clase 7</h2>
+<h2>🌎 Clase 12</h2>
 
 <div class="links">
 
-<a href="https://traductoor-q4rqcerg82tfgk2ghmahpu.streamlit.app/" target="_blank">
-🌐 Traductor
+<a href="https://htrdsk7cxdc4ybc2qiuync.streamlit.app/" target="_blank">
+🌐 DigitVision AI
 </a>
 
-<a href="https://ocr-audio-avfn8jneonbdegm2mvipto.streamlit.app/" target="_blank">
-🎧 OCR + Audio
+<a href="https://drawrecog-2gpbw2nf5mwfz34yrsptzs.streamlit.app/" target="_blank">
+🎧 NeuroPanel
 </a>
 
-<a href="https://jwrh4nyycm8pwyqjl3pddg.streamlit.app/" target="_blank">
-📸 VisionScan OCR
+<a href="https://touchcanvas-iwgrzowz57w7zg46ddu37a.streamlit.app/" target="_blank">
+📸 Draaw
 </a>
 
 </div>
 </div>
 
-<!-- CLASE 8 -->
+<!-- CLASE 13 -->
 <div class="card">
 
-<h2>🧠 Clase 8</h2>
+<h2>🧠 Clase 13</h2>
 
 <div class="links">
 
-<a href="https://wordcloud-ale-79ksrpzluvjdajhoveyqqm.streamlit.app/" target="_blank">
-☁️ WordCloud
+<a href="https://receptor-kkhar3gggzqmb6gyd3jsd7.streamlit.app/https://receptor-kk
+har3gggzqmb6gyd3jsd7.streamlit.app/" target="_blank">
+☁️ SensorHub MQTT
 </a>
 
-<a href="https://tfidf-demo-espanol-thhzrhhzhrvpx7fhyq5zcm.streamlit.app/" target="_blank">
-📊 TF-IDF
+<a href="https://controladormqtt-exrpxaet2ywivh7xz99tdh.streamlit.app/" target="_blank">
+📊 GreenControl MQTT
 </a>
 
-<a href="https://sentimenta-fw2zmndnyesdczxhsvygze.streamlit.app/" target="_blank">
-💜 Sentimenta
-</a>
-
-<a href="https://dpaudyyodkunjmeg6rpcex.streamlit.app/" target="_blank">
-🤖 NLP Dashboard
-</a>
-
-</div>
-</div>
-
-<!-- CLASE 9 -->
-<div class="card">
-
-<h2>👁️ Clase 9</h2>
-
-<div class="links">
-
-<a href="https://yolov5-8hzpgrleyaixfoygjfwxvz.streamlit.app/" target="_blank">
-🎯 YOLOv5 Detector
-</a>
-
-<a href="https://yrhoftz8g3zqnca6elyu22.streamlit.app/" target="_blank">
-🧿 Computer Vision App
+<a href="https://vozmqtt-vjpxjbm5z4t9isdofedhbv.streamlit.app/" target="_blank">
+💜 VoiceControl AI
 </a>
 
 </div>
