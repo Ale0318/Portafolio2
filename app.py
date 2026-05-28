@@ -118,11 +118,11 @@ Si corre en Streamlit, no se toca.
 <div class="links">
 
 <a href="https://chatpdf-oamzr4rofj3woilddhzbve.streamlit.app/" target="_blank">>
-🚀 Chat PDF
+🤖 Chat PDF
 </a>
 
 <a href="https://visionapp-eof9e2wdacnswg8tyid97p.streamlit.app/" target="_blank">
-🔊 Análisis de imagen
+👁️ Análisis de imagen
 </a>
 
 </div>
@@ -131,20 +131,20 @@ Si corre en Streamlit, no se toca.
 <!-- CLASE 12 -->
 <div class="card">
 
-<h2>🌎 Clase 12</h2>
+<h2>🧠 Clase 12</h2>
 
 <div class="links">
 
 <a href="https://htrdsk7cxdc4ybc2qiuync.streamlit.app/" target="_blank">
-🌐 DigitVision AI
+🔢 DigitVision AI
 </a>
 
 <a href="https://drawrecog-2gpbw2nf5mwfz34yrsptzs.streamlit.app/" target="_blank">
-🎧 NeuroPanel
+⚡ NeuroPanel
 </a>
 
 <a href="https://touchcanvas-iwgrzowz57w7zg46ddu37a.streamlit.app/" target="_blank">
-📸 Draaw
+🎨 Draaw
 </a>
 
 </div>
@@ -153,7 +153,7 @@ Si corre en Streamlit, no se toca.
 <!-- CLASE 13 -->
 <div class="card">
 
-<h2>🧠 Clase 13</h2>
+<h2>📡 Clase 13</h2>
 
 <div class="links">
 
@@ -163,11 +163,11 @@ har3gggzqmb6gyd3jsd7.streamlit.app/" target="_blank">
 </a>
 
 <a href="https://controladormqtt-exrpxaet2ywivh7xz99tdh.streamlit.app/" target="_blank">
-📊 GreenControl MQTT
+🌱 GreenControl MQTT
 </a>
 
 <a href="https://vozmqtt-vjpxjbm5z4t9isdofedhbv.streamlit.app/" target="_blank">
-💜 VoiceControl AI
+🎙️ VoiceControl AI
 </a>
 
 </div>
